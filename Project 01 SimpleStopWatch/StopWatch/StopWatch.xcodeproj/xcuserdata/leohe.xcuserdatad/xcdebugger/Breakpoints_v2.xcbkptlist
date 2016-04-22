@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StopWatch/ViewController.swift"
+            timestampString = "482981126.273313"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StopWatch.ViewController.StopBtn.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leohe/exercise/swift/30DaysSwift/Project%2001%20SimpleStopWatch/StopWatch/StopWatch/ViewController.swift"
+                  timestampString = "482981126.280341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StopWatch.ViewController.StopBtn.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leohe/exercise/swift/30DaysSwift/Project%2001%20SimpleStopWatch/StopWatch/StopWatch/ViewController.swift"
+                  timestampString = "482981126.281402"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StopWatch.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; StopWatch.ViewController"
+                  moduleName = "StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leohe/exercise/swift/30DaysSwift/Project%2001%20SimpleStopWatch/StopWatch/StopWatch/ViewController.swift"
+                  timestampString = "482981126.281517"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StopWatch.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;StopWatch.ViewController&gt;"
+                  moduleName = "StopWatch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leohe/exercise/swift/30DaysSwift/Project%2001%20SimpleStopWatch/StopWatch/StopWatch/ViewController.swift"
+                  timestampString = "482981126.281603"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
